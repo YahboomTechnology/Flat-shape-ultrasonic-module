@@ -1,5 +1,5 @@
-# Raspberry Pi 4WD Car
-![](https://github.com/YahboomTechnology/RaspberryPi-4WD-Car/blob/master/Yahboom_Pi4WD.png)
+# Yahboom horizontal ultrasonic sensor distance module(XH2.54-4Pin port)
+![](https://github.com/YahboomTechnology/Flat-shape-ultrasonic-module/blob/master/Ultrasonic-sensor.jpg)
 # Introduction
 This module adopts a unique flat shape. The module possesses four pins VCC, GND, ECHO, TRIG. It only needs 5V working voltage and you can write the corresponding program to control it. It is extensible and you can install it on a 9G servo. And the front, left, and right directions are measured by the rotation of the servo. We also reserved mounting holes that can be used to connect to other modules. You can use this module to occasions like short-distance measurement, smart cars, robots, micro:bit and Arduino teaching, etc.
 
